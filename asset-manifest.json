@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DesignDemo/static/css/main.c80e8aa9.chunk.css",
+    "main.css": "/DesignDemo/static/css/main.994e518f.chunk.css",
     "main.js": "/DesignDemo/static/js/main.c99a21f5.chunk.js",
     "main.js.map": "/DesignDemo/static/js/main.c99a21f5.chunk.js.map",
     "runtime~main.js": "/DesignDemo/static/js/runtime~main.e1250d82.js",
@@ -9,10 +9,10 @@
     "static/js/2.62a76ffb.chunk.js": "/DesignDemo/static/js/2.62a76ffb.chunk.js",
     "static/js/2.62a76ffb.chunk.js.map": "/DesignDemo/static/js/2.62a76ffb.chunk.js.map",
     "index.html": "/DesignDemo/index.html",
-    "precache-manifest.b127b79c28b9fdbc27d700675b5de3d0.js": "/DesignDemo/precache-manifest.b127b79c28b9fdbc27d700675b5de3d0.js",
+    "precache-manifest.f537c9832e6cdd8d5fc41e1c62a42ddd.js": "/DesignDemo/precache-manifest.f537c9832e6cdd8d5fc41e1c62a42ddd.js",
     "service-worker.js": "/DesignDemo/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/DesignDemo/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.c80e8aa9.chunk.css.map": "/DesignDemo/static/css/main.c80e8aa9.chunk.css.map",
+    "static/css/main.994e518f.chunk.css.map": "/DesignDemo/static/css/main.994e518f.chunk.css.map",
     "static/media/logo.svg": "/DesignDemo/static/media/logo.0092e920.svg"
   }
 }
